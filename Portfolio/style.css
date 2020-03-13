@@ -1,0 +1,14 @@
+
+
+.subtitle {
+    font-family: palatino;
+    font-size: 24px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.avatar {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
